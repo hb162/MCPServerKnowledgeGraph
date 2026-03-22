@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Testing
+.coverage
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Cache
+.kg-mcp/
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI tools
+.ai/
+.kiro/
+.claude/
+.kiro/
